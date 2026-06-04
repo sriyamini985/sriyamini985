@@ -1,87 +1,57 @@
 <div align="center">
 
-<!-- Premium Hero Banner with SVG -->
-<svg width="100%" height="200" viewBox="0 0 1200 200" style="max-width: 100%; background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%); border-radius: 12px; margin-bottom: 20px;">
-  <!-- Decorative background shapes -->
-  <defs>
-    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00d9ff;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#a78bfa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00d9ff;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="subtitleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#60a5fa;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#34d399;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  
-  <!-- Decorative circles -->
-  <circle cx="100" cy="50" r="40" fill="#00d9ff" opacity="0.1"/>
-  <circle cx="1100" cy="150" r="50" fill="#a78bfa" opacity="0.1"/>
-  
-  <!-- Main Title -->
-  <text x="600" y="70" font-size="48" font-weight="bold" text-anchor="middle" fill="url(#titleGrad)" font-family="Arial, sans-serif">
-    Sriyamini Reddy
-  </text>
-  
-  <!-- Subtitle -->
-  <text x="600" y="110" font-size="20" text-anchor="middle" fill="url(#subtitleGrad)" font-family="Arial, sans-serif" font-weight="600">
-    Full Stack Developer • AI Explorer • Startup Builder
-  </text>
-  
-  <!-- Divider -->
-  <line x1="300" y1="125" x2="900" y2="125" stroke="#00d9ff" stroke-width="2" opacity="0.5"/>
-  
-  <!-- Stats line -->
-  <text x="600" y="160" font-size="13" text-anchor="middle" fill="#94a3b8" font-family="Arial, sans-serif" letter-spacing="2">
-    B.Tech 3rd Year | Full Stack | AI Enthusiast | Startup Builder
-  </text>
-</svg>
+<!-- Premium Hero Section with Animated Name -->
+<h1 style="font-size: 3.5rem; margin: 40px 0 10px 0; background: linear-gradient(135deg, #00d9ff 0%, #a78bfa 50%, #00d9ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 900; letter-spacing: -1px;">
+  Sriyamini Reddy
+</h1>
 
-<!-- Badge Row -->
+<h3 style="font-size: 1.3rem; color: #60a5fa; margin: 15px 0 30px 0; font-weight: 600; letter-spacing: 0.5px;">
+  Full Stack Developer • AI Explorer • Startup Builder
+</h3>
+
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=Building+Impactful+Products;React+Developer;AI+Enthusiast;Startup+Builder;Community+Builder;Lifelong+Learner" alt="Typing animation" />
+
+<!-- Status Badges -->
+<div style="margin: 25px 0;">
+  <img src="https://img.shields.io/badge/Status-Building%20ManaSetu-00d9ff?style=for-the-badge&logo=rocket" alt="Status" />
+  <img src="https://img.shields.io/badge/Open%20For-Collaborations-a78bfa?style=for-the-badge&logo=handshake" alt="Collaborations" />
+  <img src="https://img.shields.io/badge/Available%20For-Internships-34d399?style=for-the-badge&logo=briefcase" alt="Internships" />
+</div>
+
+<!-- View Counters -->
 <div>
   <img src="https://img.shields.io/github/followers/sriyamini985?style=flat-square&logo=github&color=00d9ff&logoColor=white&label=Followers" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=sriyamini985&style=flat-square&color=00d9ff" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Status-Building%20ManaSetu-00d9ff?style=flat-square" alt="Current Status" />
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🔗 Let's Connect
 
-<div>
+<div style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 30px 0;">
 
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/sriyamini-reddy985098/)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/sriyamini985)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>](https://instagram.com/_its__yamz)
-[<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:sriyamini659@gmail.com)
-[<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-a78bfa?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio Coming Soon"/>](#)
+<a href="https://www.linkedin.com/in/sriyamini-reddy985098/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/sriyamini985">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://instagram.com/_its__yamz">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:sriyamini659@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-a78bfa?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
-
----
-
-## 👩‍💻 About Me
-
-```
-🎓 B.Tech 3rd Year Student | Full Stack Developer
-💻 Passionate about building real-world solutions with code
-🤖 Exploring AI-Powered Products & Autonomous Systems
-🚀 Actively Building ManaSetu - A Community-Powered Platform
-
-🌱 Currently Learning:
-   • Autonomous AI Systems & LLM Integration
-   • Advanced Node.js & Backend Architecture
-   • Advanced React Patterns & Next.js
-   • System Design & Scalability
-
-🎯 My Goal:
-   Build impactful products that solve real-world problems 
-   and create meaningful opportunities for communities.
-
-🎨 When I'm not coding:
-   Reading | Drawing | Singing | Dancing | Exploring New Tech
-```
 
 ---
 
@@ -89,7 +59,7 @@
 
 <table>
   <tr>
-    <th colspan="5" align="center">💻 Frontend Development</th>
+    <th colspan="5" align="center" style="background: linear-gradient(135deg, #00d9ff, #a78bfa); color: white; padding: 12px; border-radius: 8px;">💻 Frontend Development</th>
   </tr>
   <tr>
     <td align="center" width="120">
@@ -109,7 +79,7 @@
     </td>
   </tr>
   <tr>
-    <th colspan="5" align="center">⚙️ Backend Development</th>
+    <th colspan="5" align="center" style="background: linear-gradient(135deg, #00d9ff, #a78bfa); color: white; padding: 12px; border-radius: 8px;">⚙️ Backend Development</th>
   </tr>
   <tr>
     <td align="center" width="120">
@@ -127,7 +97,7 @@
     <td></td>
   </tr>
   <tr>
-    <th colspan="5" align="center">🗄️ Databases</th>
+    <th colspan="5" align="center" style="background: linear-gradient(135deg, #00d9ff, #a78bfa); color: white; padding: 12px; border-radius: 8px;">🗄️ Databases</th>
   </tr>
   <tr>
     <td align="center" width="120">
@@ -137,15 +107,12 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" /><br><b>MySQL</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45" height="45" /><br><b>Firebase</b>
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" /><br><b>SQLite</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45" height="45" /><br><b>PostgreSQL</b>
-    </td>
-    <td></td>
+    <td colspan="2"></td>
   </tr>
   <tr>
-    <th colspan="5" align="center">🛠️ Tools & Platforms</th>
+    <th colspan="5" align="center" style="background: linear-gradient(135deg, #00d9ff, #a78bfa); color: white; padding: 12px; border-radius: 8px;">🛠️ Tools & Platforms</th>
   </tr>
   <tr>
     <td align="center" width="120">
@@ -198,24 +165,21 @@ A comprehensive ecosystem designed to empower individuals through meaningful wor
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 My Contributions
 
 <div align="center">
 
-### 📈 GitHub Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriyamini985&show_icons=true&theme=dark&bg_color=0f172a&title_color=00d9ff&icon_color=a78bfa&text_color=cbd5e1&hide_border=true&rank_icon=github)](https://github.com/sriyamini985)
+### 🔥 GitHub Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sriyamini985&theme=dark&background=0f172a&ring=00d9ff&fire=a78bfa&currStreakLabel=00d9ff&sideLabels=00d9ff&border=404854" alt="GitHub Streak" width="100%" />
 
-### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sriyamini985&theme=dark&background=0f172a&ring=00d9ff&fire=a78bfa&currStreakLabel=00d9ff&sideLabels=00d9ff)](https://github.com/sriyamini985)
+### 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriyamini985&layout=compact&theme=dark&bg_color=0f172a&title_color=00d9ff&text_color=cbd5e1&hide_border=true&border_color=404854" alt="Top Languages" width="100%" />
 
-### 💻 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriyamini985&layout=compact&theme=dark&bg_color=0f172a&title_color=00d9ff&text_color=cbd5e1&hide_border=true)](https://github.com/sriyamini985)
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=sriyamini985&show_icons=true&theme=dark&bg_color=0f172a&title_color=00d9ff&icon_color=a78bfa&text_color=cbd5e1&hide_border=true&border_color=404854&rank_icon=github" alt="GitHub Stats" width="100%" />
 
-### 📅 Contribution Graph
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sriyamini985&theme=dark-blue&bg_color=0f172a&color=00d9ff&line=00d9ff&point=a78bfa&hide_border=true)](https://github.com/sriyamini985)
-
-### 🐍 Contribution Animation
-![Snake animation](https://github.com/sriyamini985/sriyamini985/blob/output/github-contribution-grid-snake.svg)
+### 📅 Contribution Activity
+<img src="https://activity-graph.herokuapp.com/graph?username=sriyamini985&theme=dark-blue&bg_color=0f172a&color=00d9ff&line=00d9ff&point=a78bfa&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -223,43 +187,33 @@ A comprehensive ecosystem designed to empower individuals through meaningful wor
 
 ## 🎯 What I'm Working On
 
-💼 **Open for Internships** - Seeking opportunities in Full Stack Development & AI
-
-🤝 **Open for Collaborations** - Let's build something amazing together
-
-🚀 **Actively Building ManaSetu** - A community-powered platform changing how people work
-
-🎓 **Continuous Learning** - Master System Design, Advanced React, and AI Integration
-
----
-
-## 💬 Get In Touch
-
 <div align="center">
 
-I'm always interested in discussing new ideas, collaborations, and how technology can create positive impact.
-
-### Let's Connect:
-
-[<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>](https://www.linkedin.com/in/sriyamini-reddy985098/)
-[<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>](https://github.com/sriyamini985)
-[<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>](https://instagram.com/_its__yamz)
-[<img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>](mailto:sriyamini659@gmail.com)
+| 💼 | 🤝 | 🚀 | 🎓 |
+|:--:|:--:|:--:|:--:|
+| **Open for Internships** | **Open for Collaborations** | **Building ManaSetu** | **Continuous Learning** |
+| Seeking Full Stack & AI opportunities | Let's build amazing products | Community-Powered Platform | System Design & Advanced React |
 
 </div>
 
 ---
 
-## 🎨 Footer
+## 💬 Let's Build Together
 
 <div align="center">
 
-> **Building products that create impact, not just projects.**
+**I'm always interested in discussing new ideas, collaborations, and how technology can create positive impact.**
 
-Thanks for visiting my profile. Let's build something meaningful together and make a difference through technology.
+[<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://www.linkedin.com/in/sriyamini-reddy985098/)
+[<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/sriyamini985)
+[<img src="https://img.shields.io/badge/Message%20on%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:sriyamini659@gmail.com)
+
+</div>
 
 ---
 
-<sub>💡 Crafted with passion | 🚀 Always learning | 🌟 Forever building</sub>
+<div align="center">
+
+<sub>💡 Building products that create impact | 🚀 Always learning | 🌟 Forever building</sub>
 
 </div>
